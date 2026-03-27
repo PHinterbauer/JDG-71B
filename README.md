@@ -2,7 +2,6 @@
 
 #
 
-Hello this is our super duper cool Cyberdeck!!1!!
+### *Precision Hardware for Ethical Exploration.*
 
-We are two Austrian Students that are interested in Electrical Engineering.
-
+**The Judge** is a custom-built ethical hacking cyberdeck developed by two students as a hands-on project in electronics and cybersecurity. It serves as a portable, high-performance platform for learning hardware integration and penetration testing.
