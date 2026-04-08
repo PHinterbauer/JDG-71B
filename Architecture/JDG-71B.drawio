@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0">
   <diagram name="Seite-1" id="K4tN7reHr2rXkGyNIiT-">
-    <mxGraphModel dx="3349" dy="2229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2871" dy="2229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,30 +142,6 @@
           <mxGeometry relative="1" x="-0.0612" y="-2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="usZD_hGQH-tzpWaHk_W0-3" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="120" width="750" x="100" y="570" as="geometry" />
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-26" parent="usZD_hGQH-tzpWaHk_W0-3" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="120" width="750" as="geometry" />
-        </mxCell>
-        <mxCell id="hCqLMwoUDnEJk0NjdWHi-9" parent="usZD_hGQH-tzpWaHk_W0-3" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.berrybase.at/pn532-nfc-und-rfid-modul-uart-i2c-spi-inkl.-karte-dongle&quot;&gt;NFC Reader / Writer&lt;/a&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="570" y="40" as="geometry" />
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-3" parent="usZD_hGQH-tzpWaHk_W0-3" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.waveshare.com/12.3-dsi-touch-a.htm&quot;&gt;Display&lt;/a&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;12.3, DSI, Touch&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="154" y="40" as="geometry" />
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-14" parent="usZD_hGQH-tzpWaHk_W0-3" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.cirque.com/glidepoint-circle-trackpads&quot;&gt;Cirque Trackpad&lt;/a&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;40mm, SPI&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="294" y="40" as="geometry" />
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-23" parent="usZD_hGQH-tzpWaHk_W0-3" style="rounded=0;whiteSpace=wrap;html=1;" value="Custom Keyboard Matrix" vertex="1">
-          <mxGeometry height="60" width="120" x="14" y="40" as="geometry" />
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-27" parent="usZD_hGQH-tzpWaHk_W0-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=5" value="HID" vertex="1">
-          <mxGeometry height="30" width="40" as="geometry" />
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-77" parent="usZD_hGQH-tzpWaHk_W0-3" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.berrybase.at/1.3-128x64-oled-display-modul-einfarbig-blau-spi-i2c-interface-vertikale-stiftleiste&quot;&gt;Extra Display&lt;/a&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;1.3, OLED&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="430" y="40" as="geometry" />
         </mxCell>
         <mxCell id="usZD_hGQH-tzpWaHk_W0-4" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="120" width="710" x="100" y="570" as="geometry" />
@@ -473,7 +449,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hCqLMwoUDnEJk0NjdWHi-10" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="210" width="600" x="970" y="570" as="geometry" />
+          <mxGeometry height="210" width="600" x="840" y="560" as="geometry" />
         </mxCell>
         <mxCell id="5YY6SZ4q5rNgmWWMSITe-50" parent="hCqLMwoUDnEJk0NjdWHi-10" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="" vertex="1">
           <mxGeometry height="210" width="600" as="geometry" />
@@ -506,6 +482,33 @@
           <mxGeometry relative="1" x="0.1937" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="usZD_hGQH-tzpWaHk_W0-7" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="120" width="750" x="100" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-26" parent="usZD_hGQH-tzpWaHk_W0-7" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="120" width="710" as="geometry" />
+        </mxCell>
+        <mxCell id="usZD_hGQH-tzpWaHk_W0-3" connectable="0" parent="usZD_hGQH-tzpWaHk_W0-7" style="group" value="" vertex="1">
+          <mxGeometry height="120" width="750" as="geometry" />
+        </mxCell>
+        <mxCell id="hCqLMwoUDnEJk0NjdWHi-9" parent="usZD_hGQH-tzpWaHk_W0-3" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.berrybase.at/pn532-nfc-und-rfid-modul-uart-i2c-spi-inkl.-karte-dongle&quot;&gt;NFC Reader / Writer&lt;/a&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="570" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-3" parent="usZD_hGQH-tzpWaHk_W0-3" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.waveshare.com/12.3-dsi-touch-a.htm&quot;&gt;Display&lt;/a&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;12.3, DSI, Touch&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="154" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-14" parent="usZD_hGQH-tzpWaHk_W0-3" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.cirque.com/glidepoint-circle-trackpads&quot;&gt;Cirque Trackpad&lt;/a&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;40mm, SPI&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="294" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-23" parent="usZD_hGQH-tzpWaHk_W0-3" style="rounded=0;whiteSpace=wrap;html=1;" value="Custom Keyboard Matrix" vertex="1">
+          <mxGeometry height="60" width="120" x="14" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-27" parent="usZD_hGQH-tzpWaHk_W0-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=5" value="HID" vertex="1">
+          <mxGeometry height="30" width="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-77" parent="usZD_hGQH-tzpWaHk_W0-3" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.berrybase.at/1.3-128x64-oled-display-modul-einfarbig-blau-spi-i2c-interface-vertikale-stiftleiste&quot;&gt;Extra Display&lt;/a&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;1.3, OLED&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="430" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
