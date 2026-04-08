@@ -1,9 +1,148 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0">
   <diagram name="Seite-1" id="K4tN7reHr2rXkGyNIiT-">
-    <mxGraphModel dx="2530" dy="2052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3349" dy="2229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="usZD_hGQH-tzpWaHk_W0-6" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="360" width="740" x="760" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-72" parent="usZD_hGQH-tzpWaHk_W0-6" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="360" width="740" as="geometry" />
+        </mxCell>
+        <mxCell id="usZD_hGQH-tzpWaHk_W0-5" connectable="0" parent="usZD_hGQH-tzpWaHk_W0-6" style="group" value="" vertex="1">
+          <mxGeometry height="345" width="671.72" as="geometry" />
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-28" parent="usZD_hGQH-tzpWaHk_W0-5" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.waveshare.com/lc76g-gnss-module.htm?___SID=U&quot;&gt;GNSS Module&lt;/a&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-31" parent="usZD_hGQH-tzpWaHk_W0-5" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.waveshare.com/sma-to-ipex-cable.htm?sku=21119&quot;&gt;IPEX1 to SMA&lt;/a&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;15cm&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="197.24" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-33" parent="usZD_hGQH-tzpWaHk_W0-5" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.reichelt.at/at/de/shop/produkt/antenne_lte_gnss_sma_stecker_1_5_-_3_0_dbi_omnidirektional-368352?PROVID=2865&amp;amp;msclkid=7ef3d9662a7d160feb12b0ae17815590&amp;amp;utm_source=bing&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=(AT%3A%20PMax)%20-%20Alle%20Produkte&amp;amp;utm_term=2324367582954993&amp;amp;utm_content=Shopping%20Only&quot;&gt;GNSS Antenna&lt;/a&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="374.48" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-36" parent="usZD_hGQH-tzpWaHk_W0-5" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.waveshare.com/ord-cm4-antenna.htm&quot;&gt;WIFI / BT&amp;nbsp; Antenna&lt;/a&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="197.24" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-39" parent="usZD_hGQH-tzpWaHk_W0-5" style="rounded=0;whiteSpace=wrap;html=1;" value="U.FL to SMA&lt;br&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;included -&amp;gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-45" parent="usZD_hGQH-tzpWaHk_W0-5" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.amazon.com/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B0CD745394/ref=sr_1_1?currency=EUR&amp;amp;dib=eyJ2IjoiMSJ9.6649piGMEG0NOznHnau5RfHMp0U_2bc9P12aDsWxEV9Cdjq2qYMWyjm1W3WF2BJlVbXWTI50BOq6ykTPeVih4dDl5JRiTwQfW0ZIQ0OHnBWLsLglOoCii6qthGfpzdohwdbyKMByXwXrfCBQm4_eUw.v0Jdq3Q4Ghz_pBmY4CCwIqgHDKL2jRYWNmzmc29QCQ0&amp;amp;dib_tag=se&amp;amp;linkCode=sl2&amp;amp;linkId=5bee61ee3aaab594bf081fe6b0ed62e6&amp;amp;qid=1774732361&amp;amp;sr=8-1&amp;amp;srs=10230687011&quot;&gt;SDR Module&lt;/a&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="374.48" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-46" parent="usZD_hGQH-tzpWaHk_W0-5" style="rounded=0;whiteSpace=wrap;html=1;" value="USB extension cable&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;USB 2.0&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="197.24" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-55" parent="usZD_hGQH-tzpWaHk_W0-5" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.amazon.com/ANT500-Telescopic-Antenna-HackRF-Stick/dp/B01CQYZJV2/ref=sr_1_1?crid=YOOX555TZIO&amp;amp;dib=eyJ2IjoiMSJ9.aSP0fPuajej9FfobUJdXrdFLvZMvZFOVTyj_6SchfLcMDMF8gwymcqYptEa2PzO8K-osCmGiXL_ioV7i5Jhf0CZHdvhTHKCNS4jkLYtO9mVJm4o3XvJ7KkwZ9mTanPbxk-dR4CYNUsmsbuffJK2RpxTFG-R84zEd95ndDIgnw059hF2iKGZNUyv7r6VH7Yuz.idCMcdJEUJqHVWUvtaK_tI3gD-DjUgmvXrjJEi6rvuY&amp;amp;dib_tag=se&amp;amp;keywords=ANT500&amp;amp;qid=1774744227&amp;amp;sprefix=ant500%2Caps%2C281&amp;amp;sr=8-1&quot;&gt;SDR Antenna&lt;/a&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;Not final&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="551.72" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-58" parent="usZD_hGQH-tzpWaHk_W0-5" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.berrybase.at/lora-868-mhz-antenne-sma-stecker-3-dbi-omnidirektional-mit-kippgelenk-schwarz&quot;&gt;LoRa Antenna&lt;/a&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="374.48" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-61" parent="usZD_hGQH-tzpWaHk_W0-5" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.berrybase.at/seeed-grove-lora-e5-868-mhz-stm32wle5jc&quot;&gt;LoRa Module&lt;/a&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-66" parent="usZD_hGQH-tzpWaHk_W0-5" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.waveshare.com/sma-to-ipex-cable.htm?sku=21119&quot;&gt;IPEX1 to SMA&lt;/a&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;15cm&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="197.24" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-73" parent="usZD_hGQH-tzpWaHk_W0-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=5" value="RF-Hardware" vertex="1">
+          <mxGeometry height="30" width="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hCqLMwoUDnEJk0NjdWHi-3" parent="usZD_hGQH-tzpWaHk_W0-5" style="rounded=0;whiteSpace=wrap;html=1;" value="USB A 2.0&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Horizontal, 90 Degree&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-60" edge="1" parent="usZD_hGQH-tzpWaHk_W0-5" source="HnRRIZkAE0kdJbUr6hh8-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HnRRIZkAE0kdJbUr6hh8-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-32" edge="1" parent="usZD_hGQH-tzpWaHk_W0-5" source="HnRRIZkAE0kdJbUr6hh8-28" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="HnRRIZkAE0kdJbUr6hh8-31" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="180" y="200" as="sourcePoint" />
+            <mxPoint x="230" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-59" connectable="0" parent="HnRRIZkAE0kdJbUr6hh8-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="IPEX1" vertex="1">
+          <mxGeometry relative="1" x="-0.01" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-34" edge="1" parent="usZD_hGQH-tzpWaHk_W0-5" source="HnRRIZkAE0kdJbUr6hh8-31" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="HnRRIZkAE0kdJbUr6hh8-33" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="317.24" y="220" as="sourcePoint" />
+            <mxPoint x="367.24" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-38" connectable="0" parent="HnRRIZkAE0kdJbUr6hh8-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="SMA" vertex="1">
+          <mxGeometry relative="1" x="0.03" y="-2" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-40" edge="1" parent="usZD_hGQH-tzpWaHk_W0-5" source="HnRRIZkAE0kdJbUr6hh8-39" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="HnRRIZkAE0kdJbUr6hh8-36" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="145" as="sourcePoint" />
+            <mxPoint x="50" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-41" connectable="0" parent="HnRRIZkAE0kdJbUr6hh8-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="SMA" vertex="1">
+          <mxGeometry relative="1" x="0.02" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-48" edge="1" parent="usZD_hGQH-tzpWaHk_W0-5" source="HnRRIZkAE0kdJbUr6hh8-46" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="HnRRIZkAE0kdJbUr6hh8-45" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="177.24" y="245" as="sourcePoint" />
+            <mxPoint x="227.24" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-49" connectable="0" parent="HnRRIZkAE0kdJbUr6hh8-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="USB" vertex="1">
+          <mxGeometry relative="1" x="-0.08" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-56" edge="1" parent="usZD_hGQH-tzpWaHk_W0-5" source="HnRRIZkAE0kdJbUr6hh8-45" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="HnRRIZkAE0kdJbUr6hh8-55" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="294.48" y="255" as="sourcePoint" />
+            <mxPoint x="344.48" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-57" connectable="0" parent="HnRRIZkAE0kdJbUr6hh8-56" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="SMA" vertex="1">
+          <mxGeometry relative="1" x="0.04" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-67" edge="1" parent="usZD_hGQH-tzpWaHk_W0-5" source="HnRRIZkAE0kdJbUr6hh8-61" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="HnRRIZkAE0kdJbUr6hh8-66" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="290" as="sourcePoint" />
+            <mxPoint x="50" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-68" connectable="0" parent="HnRRIZkAE0kdJbUr6hh8-67" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="IPEX1" vertex="1">
+          <mxGeometry relative="1" x="0.0133" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-69" edge="1" parent="usZD_hGQH-tzpWaHk_W0-5" source="HnRRIZkAE0kdJbUr6hh8-66" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="HnRRIZkAE0kdJbUr6hh8-58" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="100" y="300" as="sourcePoint" />
+            <mxPoint x="150" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HnRRIZkAE0kdJbUr6hh8-70" connectable="0" parent="HnRRIZkAE0kdJbUr6hh8-69" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="SMA" vertex="1">
+          <mxGeometry relative="1" x="0.0224" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCqLMwoUDnEJk0NjdWHi-6" edge="1" parent="usZD_hGQH-tzpWaHk_W0-5" source="hCqLMwoUDnEJk0NjdWHi-3" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="HnRRIZkAE0kdJbUr6hh8-46" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-60" y="220" as="sourcePoint" />
+            <mxPoint x="-10" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCqLMwoUDnEJk0NjdWHi-7" connectable="0" parent="hCqLMwoUDnEJk0NjdWHi-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="USB" vertex="1">
+          <mxGeometry relative="1" x="-0.0612" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="usZD_hGQH-tzpWaHk_W0-3" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="120" width="750" x="100" y="570" as="geometry" />
         </mxCell>
@@ -28,8 +167,8 @@
         <mxCell id="HnRRIZkAE0kdJbUr6hh8-77" parent="usZD_hGQH-tzpWaHk_W0-3" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.berrybase.at/1.3-128x64-oled-display-modul-einfarbig-blau-spi-i2c-interface-vertikale-stiftleiste&quot;&gt;Extra Display&lt;/a&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;1.3, OLED&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="430" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="360" width="740" x="680" y="180" as="geometry" />
+        <mxCell id="usZD_hGQH-tzpWaHk_W0-4" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="120" width="710" x="100" y="570" as="geometry" />
         </mxCell>
         <mxCell id="5YY6SZ4q5rNgmWWMSITe-49" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="370" width="330" x="-250" y="180" as="geometry" />
@@ -322,125 +461,6 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.waveshare.com/lc76g-gnss-module.htm?___SID=U&quot;&gt;GNSS Module&lt;/a&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="700" y="305" as="geometry" />
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-60" edge="1" parent="1" source="HnRRIZkAE0kdJbUr6hh8-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HnRRIZkAE0kdJbUr6hh8-28" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.waveshare.com/sma-to-ipex-cable.htm?sku=21119&quot;&gt;IPEX1 to SMA&lt;/a&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;15cm&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="877.24" y="305" as="geometry" />
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-32" edge="1" parent="1" source="HnRRIZkAE0kdJbUr6hh8-28" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="HnRRIZkAE0kdJbUr6hh8-31" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="860" y="380" as="sourcePoint" />
-            <mxPoint x="910" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-59" connectable="0" parent="HnRRIZkAE0kdJbUr6hh8-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="IPEX1" vertex="1">
-          <mxGeometry relative="1" x="-0.01" y="-1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.reichelt.at/at/de/shop/produkt/antenne_lte_gnss_sma_stecker_1_5_-_3_0_dbi_omnidirektional-368352?PROVID=2865&amp;amp;msclkid=7ef3d9662a7d160feb12b0ae17815590&amp;amp;utm_source=bing&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=(AT%3A%20PMax)%20-%20Alle%20Produkte&amp;amp;utm_term=2324367582954993&amp;amp;utm_content=Shopping%20Only&quot;&gt;GNSS Antenna&lt;/a&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1054.48" y="305" as="geometry" />
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-34" edge="1" parent="1" source="HnRRIZkAE0kdJbUr6hh8-31" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="HnRRIZkAE0kdJbUr6hh8-33" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="997.24" y="400" as="sourcePoint" />
-            <mxPoint x="1047.24" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-38" connectable="0" parent="HnRRIZkAE0kdJbUr6hh8-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="SMA" vertex="1">
-          <mxGeometry relative="1" x="0.03" y="-2" as="geometry">
-            <mxPoint y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.waveshare.com/ord-cm4-antenna.htm&quot;&gt;WIFI / BT&amp;nbsp; Antenna&lt;/a&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="877.24" y="225" as="geometry" />
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="U.FL to SMA&lt;br&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;included -&amp;gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="700" y="225" as="geometry" />
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-40" edge="1" parent="1" source="HnRRIZkAE0kdJbUr6hh8-39" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="HnRRIZkAE0kdJbUr6hh8-36" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="680" y="325" as="sourcePoint" />
-            <mxPoint x="730" y="275" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-41" connectable="0" parent="HnRRIZkAE0kdJbUr6hh8-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="SMA" vertex="1">
-          <mxGeometry relative="1" x="0.02" y="-1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.amazon.com/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B0CD745394/ref=sr_1_1?currency=EUR&amp;amp;dib=eyJ2IjoiMSJ9.6649piGMEG0NOznHnau5RfHMp0U_2bc9P12aDsWxEV9Cdjq2qYMWyjm1W3WF2BJlVbXWTI50BOq6ykTPeVih4dDl5JRiTwQfW0ZIQ0OHnBWLsLglOoCii6qthGfpzdohwdbyKMByXwXrfCBQm4_eUw.v0Jdq3Q4Ghz_pBmY4CCwIqgHDKL2jRYWNmzmc29QCQ0&amp;amp;dib_tag=se&amp;amp;linkCode=sl2&amp;amp;linkId=5bee61ee3aaab594bf081fe6b0ed62e6&amp;amp;qid=1774732361&amp;amp;sr=8-1&amp;amp;srs=10230687011&quot;&gt;SDR Module&lt;/a&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1054.48" y="385" as="geometry" />
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="USB extension cable&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;USB 2.0&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="877.24" y="385" as="geometry" />
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-48" edge="1" parent="1" source="HnRRIZkAE0kdJbUr6hh8-46" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="HnRRIZkAE0kdJbUr6hh8-45" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="857.24" y="425" as="sourcePoint" />
-            <mxPoint x="907.24" y="375" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-49" connectable="0" parent="HnRRIZkAE0kdJbUr6hh8-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="USB" vertex="1">
-          <mxGeometry relative="1" x="-0.08" y="-1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.amazon.com/ANT500-Telescopic-Antenna-HackRF-Stick/dp/B01CQYZJV2/ref=sr_1_1?crid=YOOX555TZIO&amp;amp;dib=eyJ2IjoiMSJ9.aSP0fPuajej9FfobUJdXrdFLvZMvZFOVTyj_6SchfLcMDMF8gwymcqYptEa2PzO8K-osCmGiXL_ioV7i5Jhf0CZHdvhTHKCNS4jkLYtO9mVJm4o3XvJ7KkwZ9mTanPbxk-dR4CYNUsmsbuffJK2RpxTFG-R84zEd95ndDIgnw059hF2iKGZNUyv7r6VH7Yuz.idCMcdJEUJqHVWUvtaK_tI3gD-DjUgmvXrjJEi6rvuY&amp;amp;dib_tag=se&amp;amp;keywords=ANT500&amp;amp;qid=1774744227&amp;amp;sprefix=ant500%2Caps%2C281&amp;amp;sr=8-1&quot;&gt;SDR Antenna&lt;/a&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;Not final&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1231.72" y="385" as="geometry" />
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-56" edge="1" parent="1" source="HnRRIZkAE0kdJbUr6hh8-45" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="HnRRIZkAE0kdJbUr6hh8-55" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="974.48" y="435" as="sourcePoint" />
-            <mxPoint x="1024.48" y="385" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-57" connectable="0" parent="HnRRIZkAE0kdJbUr6hh8-56" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="SMA" vertex="1">
-          <mxGeometry relative="1" x="0.04" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.berrybase.at/lora-868-mhz-antenne-sma-stecker-3-dbi-omnidirektional-mit-kippgelenk-schwarz&quot;&gt;LoRa Antenna&lt;/a&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1054.48" y="465" as="geometry" />
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.berrybase.at/seeed-grove-lora-e5-868-mhz-stm32wle5jc&quot;&gt;LoRa Module&lt;/a&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="700" y="465" as="geometry" />
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://www.waveshare.com/sma-to-ipex-cable.htm?sku=21119&quot;&gt;IPEX1 to SMA&lt;/a&gt;&lt;div&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;15cm&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="877.24" y="465" as="geometry" />
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-67" edge="1" parent="1" source="HnRRIZkAE0kdJbUr6hh8-61" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="HnRRIZkAE0kdJbUr6hh8-66" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="680" y="470" as="sourcePoint" />
-            <mxPoint x="730" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-68" connectable="0" parent="HnRRIZkAE0kdJbUr6hh8-67" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="IPEX1" vertex="1">
-          <mxGeometry relative="1" x="0.0133" y="2" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-69" edge="1" parent="1" source="HnRRIZkAE0kdJbUr6hh8-66" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="HnRRIZkAE0kdJbUr6hh8-58" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="780" y="480" as="sourcePoint" />
-            <mxPoint x="830" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-70" connectable="0" parent="HnRRIZkAE0kdJbUr6hh8-69" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="SMA" vertex="1">
-          <mxGeometry relative="1" x="0.0224" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HnRRIZkAE0kdJbUr6hh8-73" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontStyle=5" value="RF-Hardware" vertex="1">
-          <mxGeometry height="30" width="100" x="680" y="180" as="geometry" />
-        </mxCell>
-        <mxCell id="hCqLMwoUDnEJk0NjdWHi-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="USB A 2.0&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Horizontal, 90 Degree&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="700" y="385" as="geometry" />
-        </mxCell>
         <mxCell id="hCqLMwoUDnEJk0NjdWHi-4" edge="1" parent="1" source="HnRRIZkAE0kdJbUr6hh8-9" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hCqLMwoUDnEJk0NjdWHi-3" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="520" y="380" as="sourcePoint" />
@@ -449,17 +469,6 @@
         </mxCell>
         <mxCell id="hCqLMwoUDnEJk0NjdWHi-5" connectable="0" parent="hCqLMwoUDnEJk0NjdWHi-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Direct" vertex="1">
           <mxGeometry relative="1" x="0.0254" y="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hCqLMwoUDnEJk0NjdWHi-6" edge="1" parent="1" source="hCqLMwoUDnEJk0NjdWHi-3" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="HnRRIZkAE0kdJbUr6hh8-46" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="620" y="400" as="sourcePoint" />
-            <mxPoint x="670" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hCqLMwoUDnEJk0NjdWHi-7" connectable="0" parent="hCqLMwoUDnEJk0NjdWHi-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="USB" vertex="1">
-          <mxGeometry relative="1" x="-0.0612" y="-2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
